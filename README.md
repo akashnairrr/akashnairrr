@@ -1,6 +1,6 @@
 🚀 Full-Stack Developer with almost 5 years of professional experience.
 
-💻 Skilled in React, TypeScript, Python, and C#.
+💻 Skilled in React, Next.js, TypeScript, Python, and C#.
 
 🧠 Passionate about problem-solving and crafting efficient solutions.
 
