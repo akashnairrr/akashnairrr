@@ -1,10 +1,10 @@
-🚀 Full-Stack Developer with almost 5 years of professional experience.
+🚀 Full-Stack Developer with over 5 years of professional experience.
 
 💻 Skilled in React, Next.js, TypeScript, Python, and C#.
 
 🧠 Passionate about problem-solving and crafting efficient solutions.
 
-🌍 Currently freelancing as a Full-Stack Developer for CertHub, Munich.
+🌍 Currently working as a Full-Stack Engineer at CertHub, Munich.
 
 📚 Continuously learning and exploring new technologies to refine my skills!
 
